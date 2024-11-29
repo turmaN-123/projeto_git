@@ -1,0 +1,80 @@
+
+table {
+    font-size: 1.2rem;
+}
+
+.preco {
+    font-size: 1.4rem; 
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: cover;
+}
+
+.btn-remove {
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.btn-remove:hover {
+    background-color: #c82333;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.btn-actions {
+    text-align: center;
+}
+
+.btn-finalizar {
+    margin-top: 20px;
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-finalizar:hover {
+    background-color: #218838;
+}
+
+.container {
+    margin-bottom: 50px; 
+}
+
+.preco-destaque {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: green;
+}
+
+.preco-desconto {
+    font-size: 1.2rem;
+    text-decoration: line-through;
+    color: red;
+}
+
+.mensagem-finalizada {
+    font-size: 4rem; 
+    font-weight: bold; 
+    color: green;  
+    text-align: center; 
+    margin-top: 50px; 
+}
+
+.btn-grande {
+    font-size: 1.2rem;
+    padding: 15px 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.finalizada-btn i {
+    font-size: 2rem; 
+    margin-right: 10px; 
+}
